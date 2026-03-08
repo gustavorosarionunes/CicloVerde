@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Agendar Coleta</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <div class="caixa-principal">
+    <a href="index.html" class="botao-voltar">← Voltar ao Início</a>
+    
+    <h2>🚚 Agendar Retirada</h2>
+    
+    <form action="protocolo.html">
+        <label>Tipo de Item:</label><br>
+        <select required>
+            <option value="">Selecione...</option>
+            <option>Móveis</option>
+            <option>Eletrodomésticos</option>
+            <option>Entulhos</option>
+        </select><br><br>
+
+        <label>Descrição do que vamos buscar:</label><br>
+        <textarea required></textarea><br><br>
+
+        <label>Endereço de retirada:</label><br>
+        <input type="text" required><br><br>
+
+        <label>Foto do Material (Opcional):</label><br>
+        <input type="file"><br><br>
+
+        <button type="submit" class="botao-verde">Confirmar Agendamento</button>
+    </form>
+</div>
+</body>
+</html>
