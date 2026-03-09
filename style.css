@@ -1,0 +1,103 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #e8f5e9;
+    margin: 20px;
+}
+
+.caixa-principal {
+    background-color: white;
+    width: 350px;
+    margin: 0 auto;
+    border: 2px solid #ccc;
+    padding: 20px;
+}
+
+.topo {
+    background-color: #2e7d32;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.topo h1 {
+    margin: 0;
+}
+
+.botao-menu {
+    display: block;
+    background-color: #f1f8e9;
+    border: 1px solid #2e7d32;
+    text-decoration: none; 
+    color: black;
+    padding: 15px;
+    margin-bottom: 15px;
+}
+
+.botao-menu h3 {
+    color: #2e7d32;
+    margin: 0 0 5px 0;
+}
+
+.botao-voltar {
+    color: blue;
+    text-decoration: underline;
+    display: inline-block;
+    margin-bottom: 20px;
+}
+
+input[type="text"], input[type="file"], select, textarea {
+    width: 90%;
+    padding: 8px;
+    border: 1px solid gray;
+    margin-top: 5px;
+}
+
+.botao-verde {
+    background-color: #2e7d32;
+    color: white;
+    padding: 10px;
+    border: none;
+    width: 100%;
+    margin-top: 15px;
+    cursor: pointer;
+}
+
+.botao-vermelho {
+    background-color: red;
+    color: white;
+    padding: 10px;
+    border: none;
+    width: 100%;
+    margin-top: 15px;
+    cursor: pointer;
+}
+
+.item-lista {
+    background-color: #eee;
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-top: 10px;
+}
+
+.cartao-local {
+    border: 2px solid #2e7d32;
+    padding: 10px;
+    margin-bottom: 15px;
+}
+
+/* Novos estilos para Protocolo e Contatos */
+.caixa-protocolo {
+    background-color: #fffde7;
+    border: 2px dashed #fbc02d;
+    padding: 20px;
+    text-align: center;
+    margin: 20px 0;
+}
+
+.numero-protocolo {
+    font-size: 24px;
+    font-weight: bold;
+    color: #d32f2f;
+    margin: 10px 0;
+}
