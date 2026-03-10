@@ -31,7 +31,7 @@ Usei apenas:
 3. Ele vai abrir direto no seu navegador padrão (Chrome, Edge, Firefox, etc) e você já pode sair clicando nos botões.
 
 ##  O que eu aprendi
-Foi um baita desafio estruturar tudo isso sem usar programação avançada. Aprendi muito sobre como usar o CSS para colocar os elementos direito, como organizar o código em arquivos separados e, principalmente, como planejar as telas pensando na jornada do usuário (Mockups e requisitos). 
+Foi um baita desafio estruturar tudo isso sem usar programação avançada e IA. Reaprendi muito sobre como usar o CSS para colocar os elementos direito, como organizar o código em arquivos separados e, principalmente, como planejar as telas pensando na jornada do usuário (Mockups e requisitos). 
 
 A ideia é que no futuro esse projeto ganhe um banco de dados real e um backend para processar as denúncias de verdade!
 
