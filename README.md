@@ -5,7 +5,7 @@ Meu nome é Gustavo e esse é o meu projeto desenvolvido para a disciplina de F�
 
 Este é o meu Projeto de Nivelamento. O foco aqui não foi criar o sistema mais complexo do mundo, mas sim provar que entendo a estrutura, a organização e a lógica por trás da criação de telas e navegação.
 
-## 💡 Sobre o Projeto
+##  Sobre o Projeto
 O CicloVerde foi pensado para resolver um problema muito comum nas nossas cidades: o descarte irregular de lixo e a falta de informação. Muita gente joga móveis e entulhos em terrenos baldios simplesmente porque não sabe como pedir para a prefeitura buscar ou onde é o lugar certo para descartar. 
 
 O sistema simula um aplicativo voltado para o cidadão, onde é possível:
@@ -30,7 +30,7 @@ Usei apenas:
 2. Dê dois cliques no arquivo `index.html`.
 3. Ele vai abrir direto no seu navegador padrão (Chrome, Edge, Firefox, etc) e você já pode sair clicando nos botões.
 
-## 🧠 O que eu aprendi
+##  O que eu aprendi
 Foi um baita desafio estruturar tudo isso sem usar programação avançada. Aprendi muito sobre como usar o CSS para colocar os elementos direito, como organizar o código em arquivos separados e, principalmente, como planejar as telas pensando na jornada do usuário (Mockups e requisitos). 
 
 A ideia é que no futuro esse projeto ganhe um banco de dados real e um backend para processar as denúncias de verdade!
